@@ -2,7 +2,7 @@
 <img alt="Alx logo" src="https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png">
 </div>
 
-# 0x00. AirBnB clone - The console
+<h1 align="center"># 0x00. AirBnB clone - The console</h1>
 
 ---
 
